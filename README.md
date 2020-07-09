@@ -12,7 +12,7 @@ I am Haseeb. An enthusiastic and passionate mobile application and web-developer
 
 Furthermore, leading a team for more than 3 years has given me excellent exposure to the field. From conception to execution and feedbacks. Attention to detail and acquiring optimum results enables me to deliver to the best of my abilities.
 
-Have an interesting startup idea to discuss or want to get technical assistance in new or current projects? You can reach out to me(Twitter handle in sidebar).
+Have an interesting startup idea to discuss or want to get technical assistance in new or current projects? You can reach out to me at [twitter](https://twitter.com/Haseebrehmankhi) or [linkedin](https://www.linkedin.com/in/haseeb-ur-rehman/).
 
 
 <!--
