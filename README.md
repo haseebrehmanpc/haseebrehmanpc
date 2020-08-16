@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Haseeb. An enthusiastic and passionate mobile application and web-developer with a firm hands on various programming areas. I possess the adequate experience to become a part of the software development stages such as requirement gathering, designing, development, deployment and testing. Using my more then 5+ years of experience, currently, I am working on trending technologies and so far I have made myself proficient in the following techs:
+I am Haseeb. An enthusiastic and passionate mobile application and web-developer with a firm hands on various programming areas. I possess the adequate experience to become a part of the software development stages such as requirement gathering, designing, development, deployment and testing. Using my more then 6+ years of experience, currently, I am working on trending technologies and so far I have made myself proficient in the following techs:
 
 - JavaScript
 - React.js 🚀
