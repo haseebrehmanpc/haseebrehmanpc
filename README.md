@@ -4,11 +4,12 @@
 I am Haseeb. An enthusiastic and passionate mobile application and web-developer with a firm hands on various programming areas. I possess the adequate experience to become a part of the software development stages such as requirement gathering, designing, development, deployment and testing. Using my more then 8+ years of experience, currently, I am working on trending technologies and so far I have made myself proficient in the following techs:
 
 - JavaScript
-- React.js 🚀
+- React.js / Next.js 🚀
 - React Native 🚀
 - Node.js (Express.js)
 - SQL and NoSQL databases (MongoDB, etc)
 - Firebase
+- AWS Services
 
 Attention to detail and acquiring optimum results enables me to deliver to the best of my abilities.
 
