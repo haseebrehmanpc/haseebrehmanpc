@@ -15,6 +15,8 @@ Attention to detail and acquiring optimum results enables me to deliver to the b
 
 Have an interesting startup idea to discuss or want to get technical assistance in new or current projects? You can reach out to me on [twitter](https://twitter.com/Haseebrehmankhi) or [linkedin](https://www.linkedin.com/in/haseeb-ur-rehman/).
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebrehmanpc&" alt="haseebrehmanpc" /></p>
+
 
 <!--
 **haseebrehmanpc/haseebrehmanpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
